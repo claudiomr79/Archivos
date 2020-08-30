@@ -1,0 +1,8 @@
+C:\Proyectos\Unidades\Unidad 04\Lab01\bin\Debug\Lab01.exe.config
+C:\Proyectos\Unidades\Unidad 04\Lab01\bin\Debug\Lab01.exe
+C:\Proyectos\Unidades\Unidad 04\Lab01\bin\Debug\Lab01.pdb
+C:\Proyectos\Unidades\Unidad 04\Lab01\obj\Debug\Lab01.csprojAssemblyReference.cache
+C:\Proyectos\Unidades\Unidad 04\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Proyectos\Unidades\Unidad 04\Lab01\obj\Debug\Lab01.exe
+C:\Proyectos\Unidades\Unidad 04\Lab01\obj\Debug\Lab01.pdb
+C:\Proyectos\Unidades\Unidad 04\Lab01\bin\Debug\agenda.txt
