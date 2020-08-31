@@ -6,3 +6,11 @@ C:\Proyectos\Unidades\Unidad 04\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.c
 C:\Proyectos\Unidades\Unidad 04\Lab01\obj\Debug\Lab01.exe
 C:\Proyectos\Unidades\Unidad 04\Lab01\obj\Debug\Lab01.pdb
 C:\Proyectos\Unidades\Unidad 04\Lab01\bin\Debug\agenda.txt
+C:\Users\claud\Desktop\Archivos\bin\Debug\agenda.txt
+C:\Users\claud\Desktop\Archivos\bin\Debug\Lab01.exe.config
+C:\Users\claud\Desktop\Archivos\bin\Debug\Lab01.exe
+C:\Users\claud\Desktop\Archivos\bin\Debug\Lab01.pdb
+C:\Users\claud\Desktop\Archivos\obj\Debug\Lab01.csprojAssemblyReference.cache
+C:\Users\claud\Desktop\Archivos\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\Archivos\obj\Debug\Lab01.exe
+C:\Users\claud\Desktop\Archivos\obj\Debug\Lab01.pdb
